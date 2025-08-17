@@ -1,4 +1,4 @@
-# Shell
+# UniShell: A UNIX like Shell
 
 First run
 make
